@@ -2,7 +2,7 @@
   <cardlayout>
     <div>
       <div class="inputfieldDesign">
-        <label for="title">Title:{{ titleValue }}</label>
+        <label for="title">Title:</label>
 
         <input
           type="text"
